@@ -4,4 +4,8 @@ Tetris game as part of an embedded systems course on a Microchip development boa
 
 
 ------------
-DEMO: https://drive.google.com/file/d/1RLNDItl4q5TZP-PdvAGk5PfWmZ-DULtN
+
+[![ Tetris Embedded](https://img.youtube.com/vi/VU6T8iEFpt0/0.jpg)](https://www.youtube.com/watch?v=VU6T8iEFpt0)
+
+
+
